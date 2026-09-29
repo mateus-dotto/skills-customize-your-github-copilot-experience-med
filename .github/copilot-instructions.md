@@ -13,6 +13,7 @@ Este projeto é um site educacional para compartilhar tarefas e exercícios de p
 
 - Manter estilo consistente em todas as páginas
 - Manter nomes de arquivos e pastas descritivos e organizados
+- Sempre utilizar o idioma português do Brasil
 
 ## Padrões Educacionais
 
