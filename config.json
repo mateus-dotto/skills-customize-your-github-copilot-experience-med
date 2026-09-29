@@ -65,6 +65,13 @@
       "description": "Construção de APIs REST com o framework FastAPI, incluindo rotas, operações CRUD e validação de dados.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-10-06"
+    },
+    {
+      "id": "consuming-external-apis-javascript",
+      "title": "Consuming External APIs with JavaScript",
+      "description": "Consumo de APIs externas com JavaScript puro, incluindo fetch, JSON, DOM e tratamento de erros.",
+      "path": "assignments/consuming-external-apis-javascript",
+      "dueDate": "2026-10-06"
     }
   ]
 }
